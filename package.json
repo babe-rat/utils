@@ -66,6 +66,7 @@
     "father-build": "^1.22.3",
     "fs-extra": "^10.1.0",
     "husky": "^8.0.1",
+    "lodash.omit": "^4.5.0",
     "release-it": "^15.0.0",
     "vitest": "^0.14.2"
   },
