@@ -8,7 +8,9 @@
     "lib",
     "es"
   ],
-  "keywords": ["utils"],
+  "keywords": [
+    "utils"
+  ],
   "scripts": {
     "build": "father-build",
     "lint": "eslint src",
@@ -62,6 +64,7 @@
     "conventional-changelog-custom-config": "^0.3.1",
     "dumi": "^1.1.40",
     "father-build": "^1.22.3",
+    "fs-extra": "^10.1.0",
     "husky": "^8.0.1",
     "release-it": "^15.0.0",
     "vitest": "^0.14.2"
