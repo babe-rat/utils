@@ -1,0 +1,16 @@
+node_modules
+package.json
+
+# dist
+lib
+es
+dist
+docs-dist
+
+# lock
+*.lock
+pnpm-lock.yaml
+
+CHANGELOG.md
+
+*.yml

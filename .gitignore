@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# lock
+*.lock
+pnpm-lock.yaml
+
+# dist
+lib
+es
+dist
+docs-dist
+
+# cache
+.umi
+.umi-production

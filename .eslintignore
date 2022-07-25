@@ -1,0 +1,8 @@
+__test__
+es
+lib
+node_modules
+
+# cache
+.umi
+.umi-production

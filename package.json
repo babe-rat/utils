@@ -1,0 +1,73 @@
+{
+  "name": "@baberat/utils",
+  "version": "0.1.0",
+  "description": "工具库",
+  "main": "es/utils/index.js",
+  "types": "es/utils/index.d.ts",
+  "files": [
+    "lib",
+    "es"
+  ],
+  "keywords": ["utils"],
+  "scripts": {
+    "build": "father-build",
+    "lint": "eslint src",
+    "test": "vitest",
+    "docs:dev": "dumi dev",
+    "docs:build": "dumi build",
+    "release": "npm run build && release-it --no-npm.publish && node scripts/generatePackage.js && cd es && npm publish",
+    "version": "npm run changelog && git add CHANGELOG.md",
+    "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "exports": {
+    ".": {
+      "import": "./utils/index.js",
+      "types": "./utils/index.d.ts"
+    },
+    "./t": {
+      "import": "./t/index.js",
+      "types": "./t/index.d.ts"
+    }
+  },
+  "changelog": {
+    "emojis": true,
+    "authorName": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babe-rat/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babe-rat/utils/issues"
+  },
+  "homepage": "https://github.com/babe-rat/utils#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "devDependencies": {
+    "@baberat/eslint-config-beita": "^1.0.0",
+    "@commitlint/cli": "^16.2.4",
+    "@commitlint/config-conventional": "^16.2.4",
+    "@types/uuid": "^8.3.4",
+    "conventional-changelog-cli": "^2.2.2",
+    "conventional-changelog-custom-config": "^0.3.1",
+    "dumi": "^1.1.40",
+    "father-build": "^1.22.3",
+    "husky": "^8.0.1",
+    "release-it": "^15.0.0",
+    "vitest": "^0.14.2"
+  },
+  "dependencies": {
+    "tiny-emitter": "2.1.0",
+    "uuid": "8.3.2"
+  }
+}
