@@ -1,6 +1,6 @@
 {
   "name": "@baberat/utils",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "工具库",
   "main": "es/utils/index.js",
   "types": "es/utils/index.d.ts",
@@ -8,7 +8,9 @@
     "lib",
     "es"
   ],
-  "keywords": ["utils"],
+  "keywords": [
+    "utils"
+  ],
   "scripts": {
     "build": "father-build",
     "lint": "eslint src",
