@@ -6,7 +6,7 @@ export default defineConfig({
     outputPath: 'dist',
     base: '/utils',
     publicPath: '/utils/',
-    favicon: '/logo.png',
+    favicon: '/utils/logo.png',
     logo: '/utils/logo.png',
     exportStatic: {},
 })
