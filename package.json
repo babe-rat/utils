@@ -71,6 +71,8 @@
     "vitest": "^0.14.2"
   },
   "dependencies": {
+    "nanoid": "^4.0.0",
+    "qs": "^6.11.0",
     "tiny-emitter": "2.1.0",
     "uuid": "8.3.2"
   }
