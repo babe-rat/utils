@@ -22,7 +22,7 @@ downloadFile(data: string | ArrayBuffer | ArrayBufferView | Blob, filename: stri
 
 ```ts
 import axios from axios;
-import { downloadFile } from '@gauss/utils'
+import { downloadFile } from '@baberat/utils'
 
 function download(url: string, filename: string) {
     axios.get(url, {

@@ -45,7 +45,7 @@ _(TreeNode[])_: 返回一个新的树形结构数据
 ## 例子
 
 ```js
-import { parseTreeData } from '@gauss/utils'
+import { parseTreeData } from '@baberat/utils'
 const treeData = [
     {
         id: 1,

@@ -22,7 +22,7 @@ fade(color: string, alpha: number);
 ## 例子
 
 ```ts
-import { fade } from '@gauss/utils'
+import { fade } from '@baberat/utils'
 
 fade('#000'); // => #000000
 fade('#000', 0.1); // => rgba(0, 0, 0, 0.1)

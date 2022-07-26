@@ -13,7 +13,7 @@ group:
 ## 使用
 
 ```ts
-import { eventBus } from '@gauss/utils/t'
+import { eventBus } from '@baberat/utils/t'
 
 eventBus.$on('some-event', function (arg1, arg2, arg3) {
     // TODO
