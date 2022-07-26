@@ -8,7 +8,7 @@ export interface DownloadFileOption {
     bom?: string | Uint8Array
 }
 
-export default function downloadFile(
+export function downloadFile(
     data: DownloadFileData,
     filename: string,
     option?: DownloadFileOption,
