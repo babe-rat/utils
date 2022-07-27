@@ -71,6 +71,7 @@
     "vitest": "^0.14.2"
   },
   "dependencies": {
+    "expr-eval": "^2.0.2",
     "nanoid": "^4.0.0",
     "qs": "^6.11.0",
     "tiny-emitter": "2.1.0",
