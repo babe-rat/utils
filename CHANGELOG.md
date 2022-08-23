@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/babe-rat/utils/compare/1.1.0...1.1.1) (2022-08-23)
+
+
+### ✨ Features
+
+* 新增语义化版本号对比函数compareVersion ([a61359f](https://github.com/babe-rat/utils/commit/a61359f)) by: **gongjinhua**
+
+
+
 # [1.1.0](https://github.com/babe-rat/utils/compare/1.0.0...1.1.0) (2022-07-27)
 
 
