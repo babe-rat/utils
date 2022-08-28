@@ -1,3 +1,13 @@
+## [1.1.2](https://github.com/babe-rat/utils/compare/1.1.1...1.1.2) (2022-08-28)
+
+
+### 🎫 Chores
+
+* 添加files ([56c4b05](https://github.com/babe-rat/utils/commit/56c4b05)) by: **gongjinhua**
+* 移除多余的exports声明 ([323baa6](https://github.com/babe-rat/utils/commit/323baa6)) by: **gongjinhua**
+
+
+
 ## [1.1.1](https://github.com/babe-rat/utils/compare/1.1.0...1.1.1) (2022-08-23)
 
 
