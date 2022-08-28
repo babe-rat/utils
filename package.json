@@ -4,6 +4,10 @@
   "description": "工具库",
   "main": "es/utils/index.js",
   "types": "es/utils/index.d.ts",
+  "files": [
+    "t",
+    "utils"
+  ],
   "keywords": [
     "utils"
   ],
