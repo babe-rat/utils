@@ -35,7 +35,8 @@
     "./t": {
       "import": "./t/index.js",
       "types": "./t/index.d.ts"
-    }
+    },
+    "./typings": "./typings/index.d.ts"
   },
   "changelog": {
     "emojis": true,
