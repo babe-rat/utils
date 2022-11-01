@@ -1,3 +1,23 @@
+# [1.2.0](https://github.com/babe-rat/utils/compare/1.1.2...1.2.0) (2022-11-01)
+
+
+### ✨ Features
+
+* 添加类型AnyObject ([7fc5ddf](https://github.com/babe-rat/utils/commit/7fc5ddf)) by: **gongjinhua**
+
+
+### 🎫 Chores
+
+* 脚本修改 ([972751c](https://github.com/babe-rat/utils/commit/972751c)) by: **gongjinhua**
+* 添加exports配置 ([f3e0b31](https://github.com/babe-rat/utils/commit/f3e0b31)) by: **gongjinhua**
+
+
+### 📝 Documentation
+
+* 类型文档 ([076167f](https://github.com/babe-rat/utils/commit/076167f)) by: **gongjinhua**
+
+
+
 ## [1.1.2](https://github.com/babe-rat/utils/compare/1.1.1...1.1.2) (2022-08-28)
 
 
