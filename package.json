@@ -12,7 +12,8 @@
     "utils"
   ],
   "scripts": {
-    "build": "father-build --watch",
+    "dev": "father-build --watch",
+    "build": "father-build",
     "lint": "eslint src",
     "test": "vitest",
     "docs:dev": "dumi dev",
