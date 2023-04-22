@@ -37,6 +37,10 @@
       "import": "./t/index.js",
       "types": "./t/index.d.ts"
     },
+    "./vue": {
+      "import": "./vue/index.js",
+      "types": "./vue/index.d.ts"
+    },
     "./typings": "./typings/index.d.ts"
   },
   "changelog": {
@@ -70,7 +74,8 @@
     "husky": "^8.0.1",
     "lodash.omit": "^4.5.0",
     "release-it": "^15.0.0",
-    "vitest": "^0.14.2"
+    "vitest": "^0.14.2",
+    "vue": "^3.2.47"
   },
   "dependencies": {
     "compare-versions": "4.1.3",
