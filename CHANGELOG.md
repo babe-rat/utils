@@ -1,3 +1,18 @@
+# [1.3.0](https://github.com/babe-rat/utils/compare/1.2.0...1.3.0) (2023-04-22)
+
+
+### ✨ Features
+
+* 添加一共工具函数 ([cde4f17](https://github.com/babe-rat/utils/commit/cde4f17)) by: **gongjinhua**
+* 新增decimal.js ([57d253d](https://github.com/babe-rat/utils/commit/57d253d)) by: **gongjinhua**
+
+
+### 📝 Documentation
+
+* logo变更 ([94d523c](https://github.com/babe-rat/utils/commit/94d523c)) by: **gongjinhua**
+
+
+
 # [1.2.0](https://github.com/babe-rat/utils/compare/1.1.2...1.2.0) (2022-11-01)
 
 
