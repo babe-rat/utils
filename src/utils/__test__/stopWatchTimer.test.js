@@ -1,4 +1,4 @@
-import { assert, describe, it, vi, expect } from 'vitest'
+import { assert, describe, it, vi } from 'vitest'
 import { StopWatchTimer } from '..'
 
 describe('StopWatchTimer', () => {
