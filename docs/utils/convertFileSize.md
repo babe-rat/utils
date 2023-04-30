@@ -3,7 +3,6 @@ title: convertFileSize
 group:
     title: utils
     path: /utils
-    order: 2
 ---
 
 # convertFileSize

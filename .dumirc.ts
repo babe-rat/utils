@@ -1,11 +1,12 @@
 import { defineConfig } from 'dumi'
 
 export default defineConfig({
-    title: 'utils',
+    themeConfig: {
+        name: 'utils',
+    },
     outputPath: 'dist',
     base: '/utils',
     publicPath: '/utils/',
-    favicon: '/utils/logo.png',
+    favicons: ['/utils/logo.png'],
     logo: '/utils/logo.png',
-    exportStatic: {},
 })

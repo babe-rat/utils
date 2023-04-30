@@ -1,3 +1,11 @@
+---
+title: decimal
+group:
+    title: t
+    path: /t
+    order: 4
+---
+
 # compareVersion
 
 对比语义化版本号

@@ -1,9 +1,14 @@
 ---
-title: 快速使用
-order: 1
+title: utils - 工具库
+hero:
+    title: utils
+    description: 工具库
+    actions:
+        - text: 立即上手
+          link: /
+        - text: Github
+          link: /
 ---
-
-# 快速使用
 
 ## 安装
 
