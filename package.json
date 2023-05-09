@@ -41,6 +41,10 @@
       "import": "./vue/index.js",
       "types": "./vue/index.d.ts"
     },
+    "./regExp": {
+      "import": "./regExp/index.js",
+      "types": "./regExp/index.d.ts"
+    },
     "./typings": "./typings/index.d.ts"
   },
   "changelog": {

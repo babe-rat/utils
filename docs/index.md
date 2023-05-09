@@ -5,9 +5,9 @@ hero:
     description: 工具库
     actions:
         - text: 立即上手
-          link: /
+          link: https://babe-rat.github.io/utils/utils/convert-file-size
         - text: Github
-          link: /
+          link: https://github.com/babe-rat/utils
 ---
 
 ## 安装
