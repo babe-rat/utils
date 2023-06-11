@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_baberat_utils=self.webpackChunk_baberat_utils||[]).push([[448],{65149:function(i,a,e){e.r(a),e.d(a,{default:function(){return o}});var t=e(14570),r=e(67294),u=function(){var s=(0,t.UO)(),d=s.id,m=(0,t.WF)(),c=m.demos,f=c[d]||{},n=f.component;return n&&(0,r.createElement)(n)},o=u}}]);
