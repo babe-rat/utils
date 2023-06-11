@@ -1,0 +1,68 @@
+.VPDoc h2 {
+    margin-top: 16px;
+    border-top: 16px;
+}
+
+.VPDoc ul li code {
+    color: #d56161;
+}
+
+.VPNavBarTitle .title {
+    border: none;
+}
+
+.group + .group {
+    border: none !important;
+}
+
+.VPSidebarItem.level-0 {
+    padding-bottom: 0 !important;
+}
+
+.container {
+    max-width: 100% !important;
+}
+
+.VPSidebar {
+    padding-bottom: 88px !important;
+}
+
+.VPDoc.has-aside .content-container {
+    max-width: 100% !important;
+}
+
+@media (min-width: 640px) {
+    .vp-doc div[class*='language-'] {
+        border-radius: 4px;
+        margin: 16px 0;
+    }
+}
+
+@media (max-width: 639px) {
+    .vp-doc div[class*='language-'] {
+        border-radius: 4px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .VPSidebar {
+        padding-left: 32px !important;
+        width: var(--vp-sidebar-width) !important;
+    }
+    .VPNavBar.has-sidebar .container > .title {
+        padding-left: 32px !important;
+        width: var(--vp-sidebar-width) !important;
+    }
+    .VPNavBar.has-sidebar .content {
+        padding-right: 32px !important;
+        padding-left: 270px !important;
+    }
+    .VPContent.has-sidebar {
+        padding-right: 0px !important;
+        padding-left: 350px !important;
+    }
+}
+
+h1 + p > a {
+    display: inline-block;
+}

@@ -1,3 +1,6 @@
+---
+realPath: docs/utils/convertFileSize.md
+---
 # convertFileSize
 
 转换文件大小

@@ -1,3 +1,6 @@
+---
+realPath: docs/t/eventBus.md
+---
 # eventBus
 
 事件总线，[详见](https://www.npmjs.com/package/tiny-emitter)

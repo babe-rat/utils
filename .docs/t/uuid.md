@@ -1,3 +1,6 @@
+---
+realPath: docs/t/uuid.md
+---
 # uuid
 
 生成 RFC4122 V4 版本的 UUID，[详见](https://www.npmjs.com/package/uuid)

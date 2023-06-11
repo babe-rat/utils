@@ -1,3 +1,6 @@
+---
+realPath: docs/t/compareVersion.md
+---
 # compareVersion
 
 对比语义化版本号

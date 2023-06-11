@@ -1,3 +1,6 @@
+---
+realPath: docs/t/exprEval.md
+---
 # exprEval
 
 数学表达式求值，[详见](https://www.npmjs.com/package/expr-eval)

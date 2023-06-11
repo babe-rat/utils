@@ -1,3 +1,6 @@
+---
+realPath: docs/t/qs.md
+---
 # qs
 
 字符串解析器，[详见](https://www.npmjs.com/package/qs)

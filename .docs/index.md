@@ -1,3 +1,6 @@
+---
+realPath: docs/index.md
+---
 # @baberat/utils
 
 ## 安装

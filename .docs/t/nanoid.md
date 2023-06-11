@@ -1,3 +1,6 @@
+---
+realPath: docs/t/nanoid.md
+---
 # nanoid
 
 JavaScript 字符串 ID 生成器，[详见](https://www.npmjs.com/package/nanoid)

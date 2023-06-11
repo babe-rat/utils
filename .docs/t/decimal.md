@@ -1,3 +1,6 @@
+---
+realPath: docs/t/decimal.md
+---
 # decimal
 
 数值精度，[详见](https://github.com/MikeMcl/decimal.js)

@@ -1,3 +1,6 @@
+---
+realPath: docs/utils/StopWatchTimer.md
+---
 # StopWatchTimer
 
 秒表计时器

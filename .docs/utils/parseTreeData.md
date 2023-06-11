@@ -1,3 +1,6 @@
+---
+realPath: docs/utils/parseTreeData.md
+---
 # parseTreeData
 
 ```ts

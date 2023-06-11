@@ -1,3 +1,6 @@
+---
+realPath: docs/utils/is.md
+---
 # is
 
 判断

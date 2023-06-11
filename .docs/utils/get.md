@@ -1,3 +1,6 @@
+---
+realPath: docs/utils/get.md
+---
 # get
 
 获取对象属性值

@@ -1,3 +1,6 @@
+---
+realPath: docs/utils/stringTemplate.md
+---
 # stringTemplate
 
 基于文本模板字符串替换

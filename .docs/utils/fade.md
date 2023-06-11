@@ -1,3 +1,6 @@
+---
+realPath: docs/utils/fade.md
+---
 # fade
 
 颜色设置透明度
