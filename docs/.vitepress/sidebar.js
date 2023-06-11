@@ -21,6 +21,7 @@ export const sidebar = {
             text: 't',
             items: [
                 { text: 'compareVersion', link: '/t/compareVersion' },
+                { text: 'crypto', link: '/t/crypto' },
                 { text: 'decimal', link: '/t/decimal' },
                 { text: 'eventBus', link: '/t/eventBus' },
                 { text: 'exprEval', link: '/t/exprEval' },
